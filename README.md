@@ -7,7 +7,7 @@ El compromiso de perseverar y nunca abandonar es un lema personal que guía mi a
 </h3>
 
 # 🐱‍👤 Acerca de mi:
-Soy un apasionado de la tecnología que disfruta aprendiendo nuevas habilidades y enfrentándose a desafíos.
+Soy un apasionado por la tecnología que disfruta aprendiendo nuevas habilidades y enfrentándose a desafíos.
 
 
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) <br>
