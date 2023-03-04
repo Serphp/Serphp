@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Bienvenido a mi Github</h1>
 <h3 align="center">
-El compromiso de perseverar y nunca abandonar es un lema personal que guía mi actitud y enfoque en la vida.
+
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryaninit)
 [![](https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Serphp)
