@@ -6,8 +6,7 @@ El compromiso de perseverar y nunca abandonar es un lema personal que guía mi a
 [![](https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Serphp)
 </h3>
 
-# 🐱‍👤 Acerca de mi:
-Soy un apasionado por la tecnología que disfruta aprendiendo nuevas habilidades y enfrentándose a desafíos.
+# 🐱‍👤 Me encantan los gatos:
 
 
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) <br>
