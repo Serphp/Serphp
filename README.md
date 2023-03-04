@@ -1,18 +1,20 @@
 <h1 align="center">Hola 👋, Bienvenido a mi Github</h1>
-<h3 align="center">
+<div align="center">
 
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryaninit)
 [![](https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Serphp)
-</h3>
 
-# 🐱‍👤 Me encantan los gatos:
+</div>
+<h1> 🐱‍👤 Me encantan los gatos: </h1>
 
+<div align="center">
 
+ 
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) <br>
 [![](https://visitcount.itsvg.in/api?id=Serphp&icon=1&color=12)](https://visitcount.itsvg.in)
 
-
+ </div>
 
 # 💻 Tecnologías:
 
