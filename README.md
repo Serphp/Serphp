@@ -45,13 +45,13 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-## OS
+# :desktop_computer: OS
 ![Windows](https://img.shields.io/badge/Windows-01adef?style=for-the-badge&logo=Windows&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali_Linux-357bf1?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
-#  Estadisticas GitHub:
+# :chart: Estadisticas GitHub:
 <div align="center">
 
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) <br>
