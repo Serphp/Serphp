@@ -51,10 +51,9 @@
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
-# :chart: Estadisticas GitHub:
+#  <img src="https://i.imgur.com/pimVkwe.png" width="50" height="50" title="Puppycat god" /> Estadisticas GitHub:
 <div align="center">
 
-![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif) <br>
 ![](https://github-readme-stats.vercel.app/api?username=Serphp&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Serphp&theme=graywhite&hide_border=true)<br/>
 
