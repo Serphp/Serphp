@@ -1,10 +1,10 @@
 <img src="Assets/Serphp.gif"/>
 
 <div align="center">
-
+<img src='https://visitcount.itsvg.in/api?id=Serphp&icon=1&color=12' title='visitas'>
+ <br/>
 <a href="https://linkedin.com/in/bryaninit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/Serphp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-[![](https://visitcount.itsvg.in/api?id=Serphp&icon=1&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
