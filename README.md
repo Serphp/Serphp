@@ -33,7 +33,7 @@
 [![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-# 🔧 Tools:
+### Tools:
 [![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
