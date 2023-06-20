@@ -1,6 +1,13 @@
 <img src="Assets/Serphp.gif"/>
 
+# Welcome to my GitHub Profile! 👋
+
+> Nunca rendirse
+
 <div align="center">
+
+
+
 <img src='https://visitcount.itsvg.in/api?id=Serphp&icon=1&color=12' title='visitas'>
  <br/>
 <a href="https://linkedin.com/in/bryaninit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,7 +46,6 @@
 [![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
