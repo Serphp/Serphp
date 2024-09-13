@@ -26,10 +26,12 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap_4+-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Pug](https://img.shields.io/badge/pug-%234F5B93.svg?style=for-the-badge&logo=pug&logoColor=white)
+
 
 ### Backend Technologies
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -40,7 +42,13 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 [![Sequelize](https://img.shields.io/badge/sequelize-%23007ACC.svg?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=sql-server&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%232C355B.svg?style=for-the-badge&logo=graphql&logoColor=white)
+
+
+
+
+
 
 
 
